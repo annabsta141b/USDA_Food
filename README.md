@@ -1,4 +1,4 @@
-# USDA_Food_Composition
+# USDA Food Composition
 
 The US Department of Agriculture publishes price estimates for fruits and vegetables online. The most recent estimates are based on a 2013 survey of US retail stores. We've cleaned and merged the fruit and vegetable price estimates for you. The result is the **fresh.csv** file included in the repository.
 
