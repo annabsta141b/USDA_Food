@@ -6,4 +6,4 @@ In this assignment, you'll combine the price estimates with nutrition data from 
 
 The USDA Food Composition Databases have a documented web API that returns data in JSON format . You need a key in order to use the API. Only 1000 requests are allowed per hour, so it's a good idea to use caching.
 
-Sign up for an API key here. The key will work with any data.gov API. You may need the key again later in the quarter, so make sure you save it.
+Sign up for an API key here (https://api.data.gov/signup/). The key will work with any data.gov API. You may need the key again later in the quarter, so make sure you save it.
